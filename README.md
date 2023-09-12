@@ -1,9 +1,9 @@
 
 # Hello everybody! I'm Rodrigo Seabra 👋
 
-![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-seabra&show_icons=true&theme=transparent)
+![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-seabra&show_icons=true&theme=transparent&bg_color=0000&text_color=ffff&card_width=300)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-seabra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-seabra&layout=donut&bg_color=0000&text_color=ffff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Technologies
