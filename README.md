@@ -1,14 +1,13 @@
 
 # Hello everybody! I'm Rodrigo Seabra 👋
 
-<div style="display: flex"  > <br>
 
 
-![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-seabra&show_icons=true&theme=transparent)
+
+![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-seabra&show_icons=true&theme=transparent&bg_color=0000&text_color=ffff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-seabra&layout=compact&bg_color=0000&text_color=ffff)
 
-</div></br>
 
 ## Technologies
 
