@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Rodrigo Seabra — Full Stack Developer & API Integrator</h2>
+<h2 align="center">👋 Hi, I'm Rodrigo Seabra — Full Stack Developer </h2>
 
 <p align="center">
   🚀 Passionate about technology, automation and e-commerce integrations. <br>
