@@ -8,8 +8,8 @@
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigo-seabra&show_icons=true&theme=dracula&count_private=true" height="150" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigo-seabra&layout=compact&theme=dracula&langs_count=6" height="150" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigo-seabra&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigo-seabra&layout=compact&theme=dracula&langs_count=6&include_all_commits=true" height="150" alt="Top languages"/>
 </div>
 
 ---
