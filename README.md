@@ -68,11 +68,6 @@
   </a>
 </div>
 
----
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" height="140" alt="Coding GIF"/>
-</p>
 
 ---
 
